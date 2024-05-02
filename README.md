@@ -1,3 +1,4 @@
+[![MasterHead](https://www.grantthornton.com.cy/globalassets/1.-member-firms/cyprus/media/summer-bootcamp.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aparna Mishra</h1>
 <h3 align="center">Cybersecurity Student | Future Defender Against Cyber Threats ⚔️ | Learning the Art of Ethical Hacking</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/1200x/5f/a1/a1/5fa1a12982f88e6bf7aaa67caf38644f.jpg">
