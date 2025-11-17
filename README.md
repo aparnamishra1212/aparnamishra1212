@@ -1,5 +1,4 @@
-<img width="1584" height="396" alt="Purple Cute Marketing Manager LinkedIn Banner" src="https://github.com/user-attachments/assets/d6f5a1c1-33ed-4a66-98fd-85576da4a33e" />
-
+<img width="1584" height="396" alt="Purple Cute Marketing Manager LinkedIn Banner (3)" src="https://github.com/user-attachments/assets/e5232417-798a-46f9-8fba-50f4639d49fb" />
 
 <h3 align="center">QA Engineer @ Trademarkia | Passionate about Quality, Security & Continuous Learning</h3>
 
