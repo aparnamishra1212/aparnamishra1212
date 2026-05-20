@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparnamishra1212&label=Profile%20views&color=0e75b6&style=flat" alt="aparnamishra1212" /> </p>
 
-- 🐞 QA Explorer – breaking things *before* users do (you’re welcome).  
-- 🌱 I’m currently learning **Automation testing**
-- 🚀 Created detailed **UAT & VAPT reports** – turning chaos into checklists and bugs into bragging rights.
-- 💬 Ask me about **Quality Assurance**
-- 🕵️‍♀️ If something works on the first try, I assume I missed a test case.
+-  QA Explorer – breaking things *before* users do (you’re welcome).  
+-  I’m currently learning **Automation testing**
+-  Created detailed **UAT & VAPT reports** – turning chaos into checklists and bugs into bragging rights.
+-  Ask me about **Quality Assurance**
+-  If something works on the first try, I assume I missed a test case.
 
-### Fun Facts
+### Fun Facts - 
 
-🪄 I believe *“Every bug has a story, and I love finding the plot twist.”*  
-🧃 My favorite testing combo? Chai ☕ + curiosity 🕵️‍♀️ + console logs.  
-💡 Still think `console.log()` is the most underrated debugging tool ever.  
+- I believe *“Every bug has a story, and I love finding the plot twist.”*  
+- My favorite testing combo? Chai ☕ + curiosity 🕵️‍♀️ + console logs.  
+- Still think `console.log()` is the most underrated debugging tool ever.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +30,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aparnamishra1212&" alt="aparnamishra1212" /></p>
 
 
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aparnamishra1212&show_icons=true&locale=en&layout=compact" alt="aparnamishra1212" /></p>
 <h4>View my tryhackme journey here</h4>
 <p><img src="https://tryhackme-badges.s3.amazonaws.com/AparnaMishra.png" alt="Your Image Badge" /></p>
