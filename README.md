@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="Purple Cute Marketing Manager LinkedIn Banner (4)" src="https://github.com/user-attachments/assets/72f58876-5fae-464f-93a1-43460dd960d8" />
 
 
-<h3 align="center">QA Engineer @ Trademarkia | Passionate about Quality, Security & Continuous Learning</h3>
+<h3 align="center">QA Engineer @ Trademarkia | I Break Things So Users Don’t </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparnamishra1212&label=Profile%20views&color=0e75b6&style=flat" alt="aparnamishra1212" /> </p>
 
