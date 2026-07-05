@@ -7,15 +7,12 @@
 
 ## Jira Ticket: QA-001
 
-**Issue Type:** Story
-
-**Status:** In Progress
-
-**Assignee:** Aparna Mishra
-
-**Sprint:** Current
-
+**Issue Type:** Story  
+**Status:** In Progress  
+**Assignee:** Aparna Mishra  
+**Sprint:** Current  
 **Summary:** Build software users can trust.
+
 
 **Description:** 
 Professional bug finder specializing in Manual, Functional, Regression, Exploratory, API, and SEO Testing. Currently exploring Playwright Automation and AI Quality Engineering - because testing humans wasn't enough.
