@@ -5,17 +5,35 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparnamishra1212&label=Profile%20views&color=0e75b6&style=flat" alt="aparnamishra1212" /> </p>
 
--  QA Explorer – breaking things *before* users do (you’re welcome).  
--  I’m currently learning **Automation testing**
--  Created detailed **UAT & VAPT reports** – turning chaos into checklists and bugs into bragging rights.
--  Ask me about **Quality Assurance**
--  If something works on the first try, I assume I missed a test case.
+## Jira Ticket: QA-001
 
-### Fun Facts - 
+**Issue Type:** Story
 
-- I believe *“Every bug has a story, and I love finding the plot twist.”*  
-- My favorite testing combo? Chai ☕ + curiosity 🕵️‍♀️ + console logs.  
-- Still think `console.log()` is the most underrated debugging tool ever.  
+**Status:** In Progress
+
+**Assignee:** Aparna Mishra
+
+**Sprint:** Current
+
+**Summary:** Build software users can trust.
+
+**Description:** 
+Professional bug finder specializing in Manual, Functional, Regression, Exploratory, API, and SEO Testing. Currently exploring Playwright Automation and AI Quality Engineering - because testing humans wasn't enough.
+
+**Acceptance Criteria:**
+
+- Find bugs before users do.
+- Question ambiguous requirements.
+- Learn continuously.
+- Never trust the happy path.
+
+**Comment:**
+
+> "If it works on the first try, I probably missed a test case."
+
+**Resolution:** Still investigating... 
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
