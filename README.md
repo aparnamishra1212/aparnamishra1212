@@ -32,6 +32,12 @@ AGE            : Confidential
 LOCATION       : India
 CURRENT ROLE   : QA Team Lead
 ORGANIZATION   : Trademarkia
+CRIMINAL RECORD :
+ > Breaking software intentionally
+ > Finding hidden bugs
+ > Interrogating APIs
+ > Capturing edge cases
+ > Never trusting developers
 SPECIALIZATION :
  > Manual Testing
  > Functional Testing
