@@ -33,13 +33,13 @@ LOCATION       : India
 CURRENT ROLE   : QA Team Lead
 ORGANIZATION   : Trademarkia
 SPECIALIZATION :
- • Manual Testing
- • Functional Testing
- • Regression Testing
- • Exploratory Testing
- • API Testing
- • SEO Testing
- • Playwright Automation
+ > Manual Testing
+ > Functional Testing
+ > Regression Testing
+ > Exploratory Testing
+ > API Testing
+ > SEO Testing
+ > Playwright Automation
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```
@@ -50,6 +50,19 @@ SPECIALIZATION :
 
 
 
-
+</table>
 
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
